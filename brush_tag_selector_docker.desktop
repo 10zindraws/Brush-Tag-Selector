@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=brush_tag_selector_docker
+X-Python-2-Compatible=false
+Name=Brush Tag Selector
+Comment=A docker with a QTabBar for selecting brush categories from the Preset Docker.
